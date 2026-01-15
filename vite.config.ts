@@ -8,7 +8,7 @@ export default defineConfig({
     build: {
         target: 'esnext'
     },
-    base: process.env.GITHUB_ACTIONS_BASE || undefined,
+    base: '/WebGPU-Gaussian-Splat-Viewer/',
     plugins: [
         rawPlugin({
             fileRegex: /\.wgsl$/,

@@ -7,7 +7,7 @@
 
 ### Live Demo
 
-🌐 **[Try it live here!](https://kytttt.github.io/Project5-WebGPU-Gaussian-Splat-Viewer/)**
+🌐 **[Try it live here!](https://kytttt.github.io/WebGPU-Gaussian-Splat-Viewer/)**
 
 *Note: Requires a WebGPU-compatible browser (Chrome recommended)*
 
